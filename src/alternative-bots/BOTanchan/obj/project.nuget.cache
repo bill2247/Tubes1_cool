@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OjrSRXg7HpI=",
+  "dgSpecHash": "9lQ6usdJ3rM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\YOGA\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\BOTanchan\\BOTanchan.csproj",
+  "projectFilePath": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YOGA\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\YOGA\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

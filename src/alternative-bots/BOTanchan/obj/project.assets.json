@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YOGA\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\BOTanchan\\BOTanchan.csproj",
+      "projectUniqueName": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
       "projectName": "BOTanchan",
-      "projectPath": "C:\\Users\\YOGA\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\BOTanchan\\BOTanchan.csproj",
+      "projectPath": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
       "packagesPath": "C:\\Users\\YOGA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YOGA\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\BOTanchan\\obj\\",
+      "outputPath": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YOGA\\AppData\\Roaming\\NuGet\\NuGet.Config"

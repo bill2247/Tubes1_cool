@@ -109,10 +109,13 @@ public class BOTanchan : Bot
                - If no new scan data is received for 3 turns, perform a small sweep (45 degrees) to re-acquire the target.
                - If no new scan data is received for 5 turns, assume the target is lost and reset the current target.
             2. If no target is locked:
-               - Perform continuous small sweeps (15 degrees) to search for new targets.
+               - Perform continuous small sweeps (45 degrees) to search for new targets.
             */
             if (currentTargetId != -1 && enemyHistory.ContainsKey(currentTargetId))
             {
+                if (EnemyCount < 4) {
+                    AdjustRadarForBodyTurn = true;
+                }
                 var targetData = enemyHistory[currentTargetId];
                 if (targetData.Count > 0)
                 {
@@ -128,13 +131,14 @@ public class BOTanchan : Bot
                     if (TurnNumber - lastData.Time > 5)
                     {
                         currentTargetId = -1; // Reset target
+                        AdjustRadarForBodyTurn = false;
                     }
                 }
             }
             else
             {
                 // Sweep radar continuously when no target is locked
-                SetTurnRadarLeft(15);
+                SetTurnRadarLeft(45);
             }
 
             Go();
@@ -296,5 +300,11 @@ public class BOTanchan : Bot
         SetTurnLeft(45);
         SetBack(100); // Move backward to avoid further collisions
         Go(); 
+    }
+
+    public override void OnRoundStarted(RoundStartedEvent roundStartedEvent)
+    {
+    moveDirection = 1; // Default to forward
+    currentTargetId = -1;
     }
 }
