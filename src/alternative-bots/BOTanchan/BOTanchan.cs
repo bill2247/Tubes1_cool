@@ -83,9 +83,9 @@ public class BOTanchan : Bot
                 // Retreat mode
                 moveDirection = -1;
                 SetTurnLeft(45 * Math.Sin(TurnNumber * 0.3)); // Random Pattern to make it harder for enemies to hit
-                if (EnemyCount == 1)
+                if (EnemyCount == 1 || Energy < 10)
                 {
-                    moveDirection = 1; // If only one enemy left, switch to attack mode
+                    moveDirection = 1; // If only one enemy left, switch to attack mode or low energy to reduce hitting the wall
                 }
                 SetForward(80 * moveDirection); // Move back and forward to create distance
             }
