@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\PattrolingBot\\PattrolingBot.csproj",
+      "projectUniqueName": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-4\\PattrolingBot.csproj",
       "projectName": "PattrolingBot",
-      "projectPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\PattrolingBot\\PattrolingBot.csproj",
+      "projectPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-4\\PattrolingBot.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\PattrolingBot\\obj\\",
+      "outputPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

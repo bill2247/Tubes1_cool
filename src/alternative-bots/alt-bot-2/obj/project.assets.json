@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\LittleBot.csproj",
+      "projectUniqueName": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-2\\LittleBot.csproj",
       "projectName": "LittleBot",
-      "projectPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\LittleBot.csproj",
+      "projectPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-2\\LittleBot.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\obj\\",
+      "outputPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

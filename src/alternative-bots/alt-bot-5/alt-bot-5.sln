@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleBot", "LittleBot.csproj", "{0B7BC6E8-E51D-CFED-ACFB-17F2A2698927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOTruutni", "BOTruutni.csproj", "{AECFAA31-D6CF-C2F5-1DDB-FDEBD115FB8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B7BC6E8-E51D-CFED-ACFB-17F2A2698927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B7BC6E8-E51D-CFED-ACFB-17F2A2698927}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B7BC6E8-E51D-CFED-ACFB-17F2A2698927}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B7BC6E8-E51D-CFED-ACFB-17F2A2698927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECFAA31-D6CF-C2F5-1DDB-FDEBD115FB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECFAA31-D6CF-C2F5-1DDB-FDEBD115FB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECFAA31-D6CF-C2F5-1DDB-FDEBD115FB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECFAA31-D6CF-C2F5-1DDB-FDEBD115FB8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {181BF635-103A-451C-B124-69FA25D8931E}
+		SolutionGuid = {DEE390C2-4432-4785-84E9-16645C7C05C5}
 	EndGlobalSection
 EndGlobal

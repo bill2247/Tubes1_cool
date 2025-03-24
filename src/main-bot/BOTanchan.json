@@ -1,14 +1,10 @@
 {
-  "name": "BOTan chan",
+  "name": "cool",
   "version": "1.0",
-  "authors": [
-    "Henry Filberto S"
-  ],
+  "authors": ["Sabilul Huda", "Henry Filberto S", "Andrew Isra S. DB"],
   "description": "Bot that moves unpredictably and fires aggressively according to energy left and distance to enemy",
   "homepage": "",
-  "countryCodes": [
-    "id"
-  ],
+  "countryCodes": ["id"],
   "platform": ".Net 9.0",
   "programmingLang": "C# 10.0"
 }

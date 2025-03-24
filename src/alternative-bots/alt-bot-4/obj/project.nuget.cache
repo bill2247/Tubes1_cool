@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3Bb6fl+d9c=",
+  "dgSpecHash": "0kKvi0LtnnE=",
   "success": true,
-  "projectFilePath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\PattrolingBot\\PattrolingBot.csproj",
+  "projectFilePath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\alt-bot-4\\PattrolingBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

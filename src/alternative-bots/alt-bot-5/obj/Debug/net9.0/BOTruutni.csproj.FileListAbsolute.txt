@@ -31,3 +31,36 @@ C:\Users\sabil\Downloads\Tubes1_cool\src\alternative-bots\BOTruutni\obj\Debug\ne
 C:\Users\sabil\Downloads\Tubes1_cool\src\alternative-bots\BOTruutni\obj\Debug\net9.0\BOTruutni.pdb
 C:\Users\sabil\Downloads\Tubes1_cool\src\alternative-bots\BOTruutni\obj\Debug\net9.0\BOTruutni.genruntimeconfig.cache
 C:\Users\sabil\Downloads\Tubes1_cool\src\alternative-bots\BOTruutni\obj\Debug\net9.0\ref\BOTruutni.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\BOTruutni.exe
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\BOTruutni.deps.json
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\BOTruutni.runtimeconfig.json
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\BOTruutni.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\BOTruutni.pdb
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\Robocode.TankRoyale.BotApi.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\SVG.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.csproj.AssemblyReference.cache
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.AssemblyInfoInputs.cache
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.AssemblyInfo.cs
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.csproj.CoreCompileInputs.cache
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.sourcelink.json
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.csproj.Up2Date
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\refint\BOTruutni.dll
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.pdb
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\BOTruutni.genruntimeconfig.cache
+E:\Kodingan\Semester 4\Stima\Tubes1\Tubes1_cool\src\alternative-bots\alt-bot-5\obj\Debug\net9.0\ref\BOTruutni.dll

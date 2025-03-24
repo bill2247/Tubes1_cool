@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BOTanchan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3c5f8593aa594963ca03d59d72fd73a1265235f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44a9a74c4e27092df099f1f869631fcdc7bcf65a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BOTanchan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BOTanchan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
