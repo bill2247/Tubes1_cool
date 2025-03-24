@@ -24,6 +24,7 @@ public class LittleBot : Bot{
         TracksColor = Color.DeepPink;
         BulletColor = Color.Red;
 
+        // algoritma untuk menuju ke pusat arena
         while(!IsInCircle){
             MoveToAreaOfCenter(arenaWidth, arenaHeight);
             if(Math.Pow((X-arenaWidth/2),2) + Math.Pow((Y-arenaHeight/2),2) < Math.Pow(80,2)){
@@ -36,6 +37,7 @@ public class LittleBot : Bot{
         }
 
         while (IsRunning){
+            // Algoritma utama menyerang
             while(!IsInCircle){
                 MoveToAreaOfCenter(arenaWidth, arenaHeight);
                 if(Math.Pow((X-arenaWidth/2),2) + Math.Pow((Y-arenaHeight/2),2) < Math.Pow(80,2)){
@@ -47,7 +49,7 @@ public class LittleBot : Bot{
                 }
             }
             Console.WriteLine("Saatnya berputar!!!");
-            // Tell the game that when we take move, we'll also want to turn right... a lot
+            //Melingkar
             SetTurnLeft(5_000);
             // Limit our speed to 9
             MaxSpeed = 10;
@@ -56,6 +58,7 @@ public class LittleBot : Bot{
         }
     }
 
+    // Algoritma untuk bergerak ke tengah arena
     public void MoveToAreaOfCenter(double arenaWidth, double arenaHeight){
         Console.WriteLine("Menuju tengah!!!");
         if(X < arenaWidth/2){
@@ -88,9 +91,6 @@ public class LittleBot : Bot{
         MoveToAreaOfCenter(arenaWidth, arenaHeight);
     }
 
-    // ReverseDirection: Switch from ahead to back & vice versa
-
-    // We scanned another bot -> fire hard!
     public override void OnScannedBot(ScannedBotEvent e)
     {
         var distanceWithOtherBot = DistanceTo(e.X, e.Y);
@@ -126,8 +126,7 @@ public class LittleBot : Bot{
         }
     }
 
-    // We hit another bot -> if it's our fault, we'll stop turning and moving,
-    // so we need to turn again to keep spinning.
+
     public override void OnHitBot(HitBotEvent e)
     {
         var bearing = BearingTo(e.X, e.Y);
@@ -141,5 +140,5 @@ public class LittleBot : Bot{
             TurnLeft(10);
         }
     }
-    /* Read the documentation for more events and methods */
+    
 }
