@@ -2,7 +2,7 @@
   "name": "cool4",
   "version": "1.0",
   "authors": ["Sabilul Huda", "Henry Filberto S", "Andrew Isra S. DB"],
-  "description": "The bot will go to the wall and patrol the wall to find the enemy and shoot the them.",
+  "description": "A Greedy strategy that minimizes bullets hit by enemy attacks. This strategy follows the principle: " "The greater the distance between the two bots, the lower the shooting accuracy and the smaller the chance of the bullet reaching its target."," The bot will go to the wall and patrol the wall to find the enemy and shoot the them.",
   "homepage": "",
   "countryCodes": ["id"],
   "platform": ".Net 9.0",
