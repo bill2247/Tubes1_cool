@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\LittleBot\\LittleBot.csproj": {}
+    "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\LittleBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\LittleBot\\LittleBot.csproj": {
+    "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\LittleBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\LittleBot\\LittleBot.csproj",
+        "projectUniqueName": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\LittleBot.csproj",
         "projectName": "LittleBot",
-        "projectPath": "C:\\Users\\User\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\LittleBot\\LittleBot.csproj",
+        "projectPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\LittleBot.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\LittleBot\\obj\\",
+        "outputPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\LittleBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

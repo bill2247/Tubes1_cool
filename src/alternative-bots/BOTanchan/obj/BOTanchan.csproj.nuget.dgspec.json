@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj": {}
+    "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj": {
+    "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
+        "projectUniqueName": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
         "projectName": "BOTanchan",
-        "projectPath": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
-        "packagesPath": "C:\\Users\\YOGA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YOGA\\Documents\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\obj\\",
+        "projectPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\BOTanchan.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Kodingan\\Semester 4\\Stima\\Tubes1\\Tubes1_cool\\src\\alternative-bots\\BOTanchan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YOGA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
