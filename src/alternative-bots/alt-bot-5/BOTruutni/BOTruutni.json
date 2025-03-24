@@ -2,7 +2,7 @@
   "name": "cool5",
   "version": "1.0",
   "authors": ["Sabilul Huda", "Henry Filberto S", "Andrew Isra S. DB"],
-  "description": "Bot that moves unpredictably and fires aggressively according to energy left and distance to enemy",
+  "description": "BOTruutni moves randomly while considering wall positions to avoid getting trapped and continuously scans for enemies every 90 degrees. This bot attacks the nearest enemy by adjusting its firepower based on distance and will ram the opponent if they are within a certain radius.",
   "homepage": "",
   "countryCodes": ["id"],
   "platform": ".Net 9.0",
